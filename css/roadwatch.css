@@ -1,0 +1,17 @@
+.inner.cover img {
+  width: 200px;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background: url('../img/admap.png');
+  background-size: cover;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+.nav {
+  font-weight: 300;
+}
