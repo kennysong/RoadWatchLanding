@@ -24,3 +24,12 @@ h1 {
     margin: 10px;
     border: 1px rgb(107, 107, 107) solid;
 }
+
+.team-url {
+    border-bottom: 1px rgb(117, 117, 117) dashed;
+}
+
+.team-url:focus, .team-url:hover {
+    border-bottom: 1px rgb(255, 255, 255) dashed;
+    text-decoration: none;
+}
