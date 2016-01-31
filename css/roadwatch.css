@@ -1,4 +1,4 @@
-.inner.cover img {
+#logo {
   width: 200px;
 }
 
@@ -14,4 +14,13 @@ h1 {
 
 .nav {
   font-weight: 300;
+}
+
+.inner.cover p {
+  font-size: 20px;
+}
+
+.popup-gallery img {
+    margin: 10px;
+    border: 1px rgb(107, 107, 107) solid;
 }
