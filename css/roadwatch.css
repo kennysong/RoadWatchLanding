@@ -33,3 +33,20 @@ h1 {
     border-bottom: 1px rgb(255, 255, 255) dashed;
     text-decoration: none;
 }
+
+#vote-btn {
+  width: 350px;
+  height: 60px;
+  font-size: 30px;
+}
+
+#video-btn {
+  width: 250px;
+  height: 60px;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.votepls {
+  font-weight: 400;
+}
